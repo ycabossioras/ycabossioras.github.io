@@ -200,6 +200,12 @@ body:hover .visually-hidden button {
     color: #000;
   }
 
+  .fa-envelope,
+  .fa-building-columns,
+  .fa-location-dot {
+    color: $violet2;
+  }
+
   .fa-bluesky,
   .fa-bluesky-square {
     color: $bluesky-color;
