@@ -16,7 +16,7 @@ redirect_from:
 
 <div class="container">
     <div class="left-column">
-      <img src   = "/images/profile.jpg"
+      <img src   = "/images/profile.jpeg"
            alt   = "Yannis Cabossioras"
            title = "Yannis Cabossioras"
            style = "border-radius: 10px;"/>
