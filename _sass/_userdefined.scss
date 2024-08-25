@@ -1,0 +1,97 @@
+/* ==========================================================================
+   USER DEFINED ELEMENTS
+========================================================================== */
+
+
+// Define breakpoints and column widths
+$left-column-width : 40%;
+$right-column-width: 60%;
+$max-image-width   : 300px;
+
+// Styles for the container
+.container {
+  display  : flex;  // Use flexbox for column layout
+  flex-wrap: wrap;  // Allow columns to wrap on smaller screens
+
+  // Styles for the columns
+  .left-column {
+    flex     : 0 0 $left-column-width;  // Flex-grow: 0, Flex-shrink: 0, Flex-basis: 30%
+    max-width: $max-image-width;        // Max width of image
+    padding  : 15px;                    // Optional padding
+    img {
+      width : 100%;  // Make the image adjust to column width
+      height: auto;  // Maintain aspect ratio
+    }
+  }
+
+  .right-column {
+    flex   : 0 0 $right-column-width;  // Flex-grow: 0, Flex-shrink: 0, Flex-basis: 70%
+    padding: 15px;                     // Optional padding
+  }
+}
+
+// Media query for smaller screens
+@media (max-width: 600px) {
+  .container {
+    flex-direction: column; // Stack columns vertically on small screens
+  }
+}
+
+
+
+.abstract {
+  margin-top  : 10px;              // Larger top margin 
+  margin-left : 40px;              // Larger left margin
+  border-left : 3px solid #ccc;  // Thin vertical line on the left
+  padding-left: 15px;              // Space between the line and the text
+  
+  span {
+    color      : $violet2;  // Violet color for "Abstract:"
+    font-weight: bold;      // Bold font for "Abstract:"
+  }
+}
+
+.no-underline {
+  text-decoration: none;      // Removes the underline from the hyperlink
+  color          : $violet1;  // Set the link color
+  
+  &:hover {
+    text-decoration: underline; // Optional: Add underline on hover if needed
+  }
+}
+
+// a[href^="mailto:"] {
+//   text-decoration: none; /* Remove underline from mailto links */
+//   color: inherit; /* Optional: Inherit the text color from the parent */
+  
+//   &:hover {
+//     text-decoration: underline; /* Optional: Add underline on hover if needed */
+//   }
+// }
+
+// a {
+//   display: block;
+//   margin-bottom: 5px;
+//   padding-right: 5px;
+//   padding-top: 2px;
+//   padding-bottom: 2px;
+//   color: inherit;
+//   font-size: $type-size-5;
+//   text-decoration: none;
+
+//   &:hover {
+//     text-decoration: underline;
+//   }
+// }
+
+.color1 {
+  color: $violet1;  // Violet color for "Abstract:"
+}
+.color2 {
+  color: $violet2;  // Violet color for "Abstract:"
+}
+
+.adjust-title {
+  color        : $violet2;
+  margin-bottom: 20px;
+}

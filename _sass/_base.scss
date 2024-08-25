@@ -1,6 +1,6 @@
 /* ==========================================================================
    BASE ELEMENTS
-   ========================================================================== */
+========================================================================== */
 html {
   /* sticky footer fix */
   position: relative;
@@ -19,6 +19,40 @@ body {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
   }
+}
+
+incol {
+  color: $violet2;
+}
+
+ti1, ti2, ti3, ti4, ti5, ti6 {
+  font-family: $header-font-family;
+  font-weight: bold;
+}
+
+ti1 {
+  margin-top: 0;
+  font-size: $type-size-3;
+}
+
+ti2 {
+  font-size: $type-size-4;
+}
+
+ti3 {
+  font-size: $type-size-5;
+}
+
+ti4 {
+  font-size: $type-size-6;
+}
+
+ti5 {
+  font-size: $type-size-6;
+}
+
+ti6 {
+  font-size: $type-size-6;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -151,13 +185,28 @@ td > code {
   }
 }
 
-/* horizontal rule */
+/* horizontal rules */
 
 hr {
   display: block;
   margin: 1em 0;
   border: 0;
   border-top: 1px solid $border-color;
+}
+
+hr2 {
+  display: block;
+  margin: 1em 0;
+  border: 0;
+  border-top: 1px solid $darker-gray;
+}
+
+/* horizontal rules */
+
+vdiv {
+  // padding-right: 0.5em;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
 }
 
 /* lists */
@@ -264,7 +313,7 @@ svg:not(:root) {
 
 /*
    Navigation lists
-   ========================================================================== */
+========================================================================== */
 
 /**
  * Removes margins, padding, and bullet points from navigation lists
@@ -307,7 +356,7 @@ nav {
 
 /*
    Global animation transition
-   ========================================================================== */
+========================================================================== */
 
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
   -webkit-transition: $global-transition;
