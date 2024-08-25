@@ -79,5 +79,3 @@ redirect_from:
 
 
 
-<small>August 2024</small>
-
