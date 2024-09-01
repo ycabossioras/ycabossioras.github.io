@@ -24,9 +24,11 @@ redirect_from:
     <div class="right-column">
       <h1 class="adjust-title"> Welcome! </h1>
       <p>
-        I am a 6th year Ph.D. candidate in Finance at NYU Stern.<br>
+        I am a 6th year Ph.D. candidate in Finance at NYU Stern. I am a Normalien from the École Normale Supérieure Paris-Saclay. I hold a M.Sc. in Economics from Paris School of Economics and a B.Sc. in Economics from Université Paris 1 Panthéon-Sorbonne.<br>
         <br>
-        My research focuses on.<br>
+        My research focuses on the effect of credit market imperfections on firm financing conditions and their real outcomes.<br>
+        <br>
+        In my job market paper, I explore how lenders specialized in certain industries adjust their interest rates over their relationship with small businesses. The invest-harvest behavior observed is consistent with the presence of borrower switching costs and lender holdup power in corporate credit markets.<br>
         <br>
         <b>Research interests:</b> banking, financial intermediation, corporate finance, industrial organization<br>
         <br>
@@ -52,13 +54,13 @@ redirect_from:
   <ti3>Bank Specialization and Holdup Behavior: Evidence and Real Effects from Small Business Lending</ti3><br>
   <b class="color2">[Job Market Paper]</b><br>
   <i>with <a href="https://sites.google.com/view/joris-tielens/homepage" style="text-decoration:none" target="_blank">Joris Tielens</a></i><br>
-  <small>August 2024</small><br>
-  <small>
+  <small>September 2024</small><br>
+  <!-- <small>
     <i class="fas fa-scroll">           </i> Paper    <vdiv>|</vdiv>
     <i class="fas fa-magnifying-glass"> </i> Appendix <vdiv>|</vdiv>
     <i class="fas fa-person-chalkboard"></i> Slides   <vdiv>|</vdiv>
     <i class="fas fa-quote-right">      </i> Citation
-  </small><br>
+  </small><br> -->
   <div class="abstract">
     <span>Abstract:</span> We study the pricing behavior of lenders holding specialized portfolios in certain industries and draw implications for small business lending. Using regulatory credit registry data on the universe of corporate credit in Belgium, we show that banks adopt invest-harvest strategies in their industries of specialization. Firms funded by specialized banks are initially charged lower interest rates and subsequently experience larger rate increases over the course of their relationship. Specialized-financed firms end up paying higher rates after 10 years compared to firms borrowing from diversified banks. We leverage granular bank-assessed default probabilities to address concerns about borrower selection and risk premia relevant to small business lending. We interpret these findings as evidence of banks having better knowledge in their industry of specialization and firms facing relatively higher costs of switching from a relationship with a specialized lender. While banks exert stronger holdup power in their preferred industries, firms overall benefit from such relationships with increased profitability, productivity, and liquidity.
   </div>
