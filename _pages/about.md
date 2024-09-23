@@ -1,11 +1,14 @@
 ---
 permalink: /
 layout: "archive"
-title: ""              # page title shown in tab, with suffix the website name, e.g., "Research - Yannis Cabossioras"
+title: "Yannis Cabossioras"              # page title shown in tab, with suffix the website name, e.g., "Research - Yannis Cabossioras"
 author_profile: false  # display author info on the left sidebar
 redirect_from: 
   - /about/
   - /about.html
+excerpt: Yannis Cabossioras -- Job market candidate in finance from NYU Stern. I work on small-business lending questions. Broadly, my research interest are banking, financial intermediation, corporate finance, industrial organization.
+seo_title: Yannis Cabossioras
+seo_description: Yannis Cabossioras -- Job market candidate in finance from NYU Stern. I work on small-business lending questions. Broadly, my research interest are banking, financial intermediation, corporate finance, industrial organization.
 ---
 
 {% include base_path %}
