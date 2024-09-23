@@ -86,7 +86,7 @@ atom_feed:
 
 # SEO Related
 google_site_verification : google-site-verification=rsapWarUDDwbURzJHGUovryU6oNenLZ3wi8PczpCSpY
-bing_site_verification   :
+bing_site_verification   : 
 alexa_site_verification  :
 yandex_site_verification :
 
@@ -99,9 +99,9 @@ og_image                 :  # Open Graph/Twitter default site image
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :
+    tracking_id          : G-EHF6G800W0
 
 
 # Reading Files
