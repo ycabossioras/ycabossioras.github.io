@@ -11,16 +11,6 @@ seo_title: Yannis Cabossioras
 seo_description: Yannis Cabossioras -- Job market candidate in finance from NYU Stern. I work on small-business lending questions. Broadly, my research interest are banking, financial intermediation, corporate finance, industrial organization.
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-EHF6G800W0"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-EHF6G800W0');
-</script>
-
 {% include base_path %}
 
 {% if page.author and site.data.authors[page.author] %}
