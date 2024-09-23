@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: "archive"
-title: "Yannis Cabossioras"              # page title shown in tab, with suffix the website name, e.g., "Research - Yannis Cabossioras"
+title: ""              # page title shown in tab, with suffix the website name, e.g., "Research - Yannis Cabossioras"
 author_profile: false  # display author info on the left sidebar
 redirect_from: 
   - /about/
