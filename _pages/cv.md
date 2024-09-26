@@ -5,6 +5,9 @@ permalink: /cv/
 author_profile: false
 redirect_from:
   - /resume
+excerpt: Yannis Cabossioras -- Job market candidate in finance from NYU Stern. I work on small-business lending questions. Broadly, my research interest are banking, financial intermediation, corporate finance, industrial organization.
+seo_title: Yannis Cabossioras
+seo_description: Yannis Cabossioras -- Curriculum Vitae. I work on small-business lending questions. Broadly, my research interest are banking, financial intermediation, corporate finance, industrial organization.
 ---
 
 {% include base_path %}
