@@ -27,15 +27,16 @@ seo_description: Yannis Cabossioras -- Job market candidate in finance from NYU 
     <div class="right-column">
       <h1 class="adjust-title"> Welcome! </h1>
       <p>
-        I am a 6th year Ph.D. candidate in Finance at NYU Stern. I am a Normalien from the École Normale Supérieure Paris-Saclay. I hold a M.Sc. in Economics from Paris School of Economics and a B.Sc. in Economics from Université Paris 1 Panthéon-Sorbonne.<br>
+        I am a 6th year Ph.D. candidate in Finance at NYU Stern and a Normalien from the École Normale Supérieure Paris-Saclay.<br>
+        <!-- I hold a M.Sc. in Economics from Paris School of Economics and a B.Sc. in Economics from Université Paris 1 Panthéon-Sorbonne. -->
         <br>
-        My research focuses on the effect of credit market imperfections on firm financing conditions and their real outcomes.<br>
-        <br>
-        In my job market paper, I explore how lenders specialized in certain industries adjust their interest rates over their relationship with small businesses. The invest-harvest behavior observed is consistent with the presence of borrower switching costs and lender holdup power in corporate credit markets.<br>
-        <br>
-        <b>Research interests:</b> banking, financial intermediation, corporate finance, industrial organization<br>
+        I study small-business lending using administrative credit data. More broadly, my research focuses on the effect of credit market imperfections on firm financing conditions and their real outcomes.<br>
         <br>
         <b>I will be on the 2024-2025 job market.</b><br>
+        <br>        
+        <b>Research interests:</b> banking, financial intermediation, corporate finance, industrial organization<br>
+        <br>
+        <!-- In my job market paper, I explore how lenders specialized in certain industries adjust their interest rates over their relationship with small businesses. The invest-harvest behavior observed is consistent with the presence of borrower switching costs and lender holdup power in corporate credit markets.<br> -->
         <br>
         <a href="/files/CV_cabossioras.pdf" style="text-decoration:none" target="_blank">
           <i class="fas fa-file icon-pad-right"></i>
