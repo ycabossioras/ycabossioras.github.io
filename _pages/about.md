@@ -55,10 +55,10 @@ seo_description: Yannis Cabossioras -- Job market candidate in finance from NYU 
 <p>
   <br>
   <h1 class="adjust-title"> Working Papers </h1>
-  <ti3>Bank Specialization and Holdup Behavior: Evidence and Real Effects from Small Business Lending</ti3><br>
+  <ti3>Bank Specialization and Credit Relationships in Small-Business Lending</ti3><br>
   <b class="color2">[Job Market Paper]</b><br>
   <i>with <a href="https://sites.google.com/view/joris-tielens/homepage" style="text-decoration:none" target="_blank">Joris Tielens</a></i><br>
-  <small>September 2024</small><br>
+  <small>November 2024</small><br>
   <!-- <small>
     <i class="fas fa-scroll">           </i> Paper    <vdiv>|</vdiv>
     <i class="fas fa-magnifying-glass"> </i> Appendix <vdiv>|</vdiv>
