@@ -12,7 +12,7 @@ seo_description: Yannis Cabossioras -- Curriculum Vitae. I work on small-busines
 
 {% include base_path %}
 
-<a href="/files/CV_cabossioras.pdf" style="text-decoration:none" target="_blank">
+<a href="/files/Cabossioras_CV.pdf" style="text-decoration:none" target="_blank">
   <i class="fas fa-file icon-pad-right"></i>
   CV in PDF version
 </a><br>

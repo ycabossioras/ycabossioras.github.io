@@ -30,7 +30,7 @@ seo_description: Yannis Cabossioras -- Job market candidate in finance from NYU 
         I am a 6th year Ph.D. candidate in Finance at NYU Stern and a Normalien from the École Normale Supérieure Paris-Saclay.<br>
         <!-- I hold a M.Sc. in Economics from Paris School of Economics and a B.Sc. in Economics from Université Paris 1 Panthéon-Sorbonne. -->
         <br>
-        I study small-business lending using administrative credit data. More broadly, my research focuses on the effect of credit market imperfections on firm financing conditions and their real outcomes.<br>
+        I study small-business lending using administrative credit data. More broadly, my research focuses on the effect of credit market imperfections on firms' access to credit and their real outcomes.<br>
         <br>
         <b>I will be on the 2024-2025 job market.</b><br>
         <br>        
@@ -38,7 +38,7 @@ seo_description: Yannis Cabossioras -- Job market candidate in finance from NYU 
         <br>
         <!-- In my job market paper, I explore how lenders specialized in certain industries adjust their interest rates over their relationship with small businesses. The invest-harvest behavior observed is consistent with the presence of borrower switching costs and lender holdup power in corporate credit markets.<br> -->
         <br>
-        <a href="/files/CV_cabossioras.pdf" style="text-decoration:none" target="_blank">
+        <a href="/files/Cabossioras_CV.pdf" style="text-decoration:none" target="_blank">
           <i class="fas fa-file icon-pad-right"></i>
           Curriculum Vitae
         </a><br>
@@ -66,7 +66,7 @@ seo_description: Yannis Cabossioras -- Job market candidate in finance from NYU 
     <i class="fas fa-quote-right">      </i> Citation
   </small><br> -->
   <div class="abstract">
-    <span>Abstract:</span> We study the pricing behavior of lenders holding specialized portfolios in certain industries and draw implications for small business lending. Using regulatory credit registry data on the universe of corporate credit in Belgium, we show that banks adopt invest-harvest strategies in their industries of specialization. Firms funded by specialized banks are initially charged lower interest rates and subsequently experience larger rate increases over the course of their relationship. Specialized-financed firms end up paying higher rates after 10 years compared to firms borrowing from diversified banks. We leverage granular bank-assessed default probabilities to address concerns about borrower selection and risk premia relevant to small business lending. We interpret these findings as evidence of banks having better knowledge in their industry of specialization and firms facing relatively higher costs of switching from a relationship with a specialized lender. While banks exert stronger holdup power in their preferred industries, firms overall benefit from such relationships with increased profitability, productivity, and liquidity.
+    <span>Abstract:</span> We document that banks leverage their industry specialization to build and retain relationships with small businesses, using micro-level data on the universe of corporate credit in Belgium. In the relationship-building phase, banks charge lower rates in their industries of specialization. In the relationship-retaining phase, lenders subsequently raise rates faster in specialized industries, until they charge similar rates regardless of their level of specialization. Specialized banks internalize the intertemporal value of credit relationships, combining both industry knowledge and market power to extract value from their relationships. Small businesses benefit from bank specialization in the long run through higher growth in investment, profitability, productivity, and equity value.
   </div>
   <br>
   <br>
@@ -74,10 +74,16 @@ seo_description: Yannis Cabossioras -- Job market candidate in finance from NYU 
   <ti3>Bank Lending in the Presence of Borrower Linkages: Evidence from the Belgian Production Network</ti3><br>
   <i>with <a href="https://sites.google.com/view/joris-tielens/homepage" style="text-decoration:none" target="_blank">Joris Tielens</a></i><br>
   <!-- <small>August 2024</small><br> -->
+  <div class="abstract">
+    <span>Abstract:</span> We establish that banks internalize firm production networks when making lending decisions. We formulate a parsimonious model of bank lending with production networks and find that banks cross-subsidize suppliers at the expense of their customers by offering lower and higher rates respectively. This cross-subsidization benefits customers on net by keeping the supplier's marginal cost down and thus the intermediate input price that the customer purchases from its suppliers. We merge credit registry data and firm-level data on the near-universe of business-to-business transactions in Belgium to get an exhaustive map between a firm's credit relationships and its supply chain linkages. We find that lenders charge a lower interest rate to suppliers and a higher average interest rate across customers, consistent with our model.
+  </div>
   <hr>
   <ti3>The Dynamics of Reference Dependence in the Housing Market</ti3><br>
   <i>with <a href="https://neilthakral.github.io/#research" style="text-decoration:none" target="_blank">Neil Thakral</a></i><br>
   <!-- <small>August 2024</small><br> -->
+  <div class="abstract">
+    <span>Abstract:</span> We study the effect of past price movements on selling decisions in the housing market to draw implications about the presence of reference dependence on this market. Using data on the universe of private housing transactions in Singapore, we test a commonly used assumption that homeowners use their unit's purchase price as a reference point when making selling decisions. We decompose a unit's cumulative price change since purchase into a series of annual potential gains and estimate how the timing of these gains affects the homeowner's decision to sell. We rule out the null of the purchase price being a reference point and find that gains occurring early in a homeowner's tenure are the most predictive of selling decisions. Homeowners prefer to hold on to their properties after recent gains, consistent with the presence of momentum on housing markets.
+  </div>
 </p>
 
 
