@@ -51,20 +51,25 @@ seo_description: Yannis Cabossioras -- Job market candidate in finance from NYU 
   </div>
 
 
-
 <p>
   <br>
   <h1 class="adjust-title"> Working Papers </h1>
-  <ti3>Bank Specialization and Credit Relationships in Small-Business Lending</ti3><br>
+
+  <a href="/files/Cabossioras_JMP.pdf" style="text-decoration:none; color:black;" target="_blank">
+    <ti3>Bank Specialization and Credit Relationships in Small-Business Lending</ti3><br>
+  </a>
   <b class="color2">[Job Market Paper]</b><br>
   <i>with <a href="https://sites.google.com/view/joris-tielens/homepage" style="text-decoration:none" target="_blank">Joris Tielens</a></i><br>
   <small>November 2024</small><br>
-  <!-- <small>
-    <i class="fas fa-scroll">           </i> Paper    <vdiv>|</vdiv>
+  <small>
+    <a href="/files/Cabossioras_JMP.pdf" style="text-decoration:none" target="_blank">
+      <i class="fas fa-scroll">           </i> Paper
+    </a>
+    <!-- <vdiv>|</vdiv>
     <i class="fas fa-magnifying-glass"> </i> Appendix <vdiv>|</vdiv>
     <i class="fas fa-person-chalkboard"></i> Slides   <vdiv>|</vdiv>
-    <i class="fas fa-quote-right">      </i> Citation
-  </small><br> -->
+    <i class="fas fa-quote-right">      </i> Citation -->
+  </small><br>
   <div class="abstract">
     <span>Abstract:</span> We study the dynamics of credit relationships between small businesses and specialized banks and analyze the real effects of specialization on this important yet understudied segment of the credit market. Using micro-level data on the universe of corporate credit in Belgium, we show that banks leverage their industry specialization to build and retain relationships with small businesses. In the relationship-building phase, banks charge lower rates in their industries of specialization. In the relationship-retaining phase, lenders subsequently raise rates faster in specialized industries, until they charge similar rates regardless of their level of specialization. Specialized banks internalize the intertemporal value of credit relationships, combining both industry knowledge and market power to extract value from their relationships. Small businesses benefit from bank specialization in the long run through higher growth in investment, profitability, productivity, and equity value. The real effects of bank specialization inform policies that could inhibit banks’ incentives to specialize, such as open banking policies.
   </div>
