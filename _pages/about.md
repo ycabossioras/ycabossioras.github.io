@@ -27,7 +27,7 @@ seo_description: Yannis Cabossioras -- Job market candidate in finance from NYU 
     <div class="right-column">
       <h1 class="adjust-title"> Welcome! </h1>
       <p>
-        I am a 6th year Ph.D. candidate in Finance at NYU Stern and a Normalien from the École Normale Supérieure Paris-Saclay.<br>
+        I am a 6th year Ph.D. candidate in Finance at NYU Stern.<br>
         <!-- I hold a M.Sc. in Economics from Paris School of Economics and a B.Sc. in Economics from Université Paris 1 Panthéon-Sorbonne. -->
         <br>
         I study small-business lending using administrative credit data. More broadly, my research focuses on the effect of credit market imperfections on firms' access to credit and their real outcomes.<br>
